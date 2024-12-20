@@ -1,2 +1,5 @@
-# ADFVGX
-German cipher ADFVGX
+# ADFGVX
+
+## 2 лаба
+
+German cipher ADFGVX
